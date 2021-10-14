@@ -5,7 +5,7 @@ public class IfElseStatement {
 	public static void main(String[] args) {
 		//Conditional Statements
 		
-		//if..else conditional statements
+		//if..else conditional statements - when u have only between two decisions
 		/*
 		 if(condition){
 		 
