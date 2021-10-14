@@ -20,6 +20,7 @@ public class WhileLoop {
 			i+=2;
 		}
 		System.out.println("Program exited");
+		System.out.println();
 		
 		int m = 2;
 		while(m <= 100) {
